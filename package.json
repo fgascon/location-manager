@@ -1,0 +1,21 @@
+{
+  "name": "location-manager",
+  "version": "0.0.0",
+  "description": "Location Manager Service",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fgascon/location-manager.git"
+  },
+  "author": "fgascon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fgascon/location-manager/issues"
+  },
+  "homepage": "https://github.com/fgascon/location-manager",
+  "dependencies": {
+    "basic-auth": "^1.0.0",
+    "body-parser": "^1.9.2",
+    "express": "^4.10.2"
+  }
+}
