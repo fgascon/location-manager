@@ -16,6 +16,7 @@
   "dependencies": {
     "basic-auth": "^1.0.0",
     "body-parser": "^1.9.2",
-    "express": "^4.10.2"
+    "express": "^4.10.2",
+    "request": "^2.48.0"
   }
 }
