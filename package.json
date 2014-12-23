@@ -1,6 +1,6 @@
 {
   "name": "location-manager",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Location Manager Service",
   "main": "index.js",
   "repository": {
